@@ -34,6 +34,7 @@
         <mapping class="com.example.model.User"/>
         <mapping class="com.example.model.Railway"/>
         <mapping class="com.example.model.Train"/>
+	    <mapping class="com.example.model.Ticket"/>
         
     </session-factory> 
 </hibernate-configuration>
